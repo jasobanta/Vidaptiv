@@ -1,0 +1,117 @@
+Destination Country Code,Destination Country Name,Country BL Requirements
+AR,Argentina,"CUIT# IN CONSIGNEE/NOTIFY
+NCM# (6 DIGITS)"
+AW,Aruba,N/A
+AU,Australia,HS CODE PRESENT
+AT,Austria,N/A
+BS,Bahamas,N/A
+BH,Bahrain,N/A
+BD,Bangladesh,N/A
+BB,Barbados,N/A
+BE,Belgium,N/A
+BM,Bermuda,N/A
+BO,Bolivia,N/A
+BR,Brazil,"CNPJ# IN CONSIGNEE/NOTIFY
+NCM# (4 DIGITS)
+WOOD PALLET STATEMENT
+EXACT WEIGHTS
+FREIGHTED"
+CL,Chile,CBM REQUIRED
+CN,China,"SHIPPER EIN# 
+EXACT WEIGHTS
+NUMBER OF PALLETS"
+CO,Colombia,"NIT#
+CBM REQUIRED"
+CR,Costa Rica,N/A
+CZ,Czech Republic,N/A
+DK,Denmark,N/A
+DO,Dominican Rep.,N/A
+EC,Ecuador,"RUC#
+CBM REQUIRED
+FREIGHTED "
+EG,Egypt,N/A
+SV,El Salvador,N/A
+EE,Estonia,N/A
+FI,Finland,N/A
+FR,France,N/A
+DE,Germany,N/A
+GH,Ghana,N/A
+GB,Great Britain,N/A
+GR,Greece,N/A
+GU,Guam,N/A
+GT,Guatemala,RIF#
+HN,Honduras,N/A
+HK,Hong Kong,N/A
+HU,Hungary,N/A
+IN,India,"IEC CODE
+GSTIN
+IMPORTER EMAIL
+PAN#
+HS CODE
+INVOICE VALUE
+FREIGHTED"
+ID,Indonesia,N/A
+IE,Ireland,N/A
+IL,Israel,"HS CODE PRESENT
+VAT#"
+IT,Italy,N/A
+JM,Jamaica,N/A
+JP,Japan,HS CODE PRESENT
+JO,Jordan,N/A
+KZ,Kazakhstan,N/A
+KE,Kenya,N/A
+KW,Kuwait,N/A
+LA,Laos,N/A
+LB,Lebanon,N/A
+LT,Lithuania,N/A
+MY,Malaysia,HS CODE PRESENT  
+MX,Mexico,"TAX ID (RFC)
+CBM REQUIRED"
+MD,Moldova,N/A
+MA,Morocco,N/A
+NA,Namibia,N/A
+NL,Netherlands,HS CODE
+NC,New Caledonia,N/A
+NZ,New Zealand,N/A
+NI,Nicaragua,N/A
+NE,Niger,N/A
+NG,Nigeria,N/A
+NO,Norway,N/A
+OM,Oman,N/A
+PK,Pakistan,CONSIGNEE TAX ID (NTN#)
+PS,Palestinian T. (Israel),N/A
+PA,Panama,N/A
+PY,Paraguay,N/A
+PE,Peru,TAX ID  
+PH,Philippines,"HS CODE PRESENT
+CBM REQUIRED"
+PL,Poland,N/A
+PT,Portugal,N/A
+US,Puerto Rico,"TAX ID 
+HS CODE PRESENT"
+QA,Qatar,N/A
+RO,Romania,N/A
+RU,Russian Fed.,N/A
+AS,"Samoa, American",N/A
+SA,Saudi Arabia,N/A
+SG,Singapore,HS CODE PRESENT (E. COAST)
+ZA,South Africa,FREIGHTED
+KR,South Korea,N/A
+ES,Spain,N/A
+LK,Sri Lanka,N/A
+SR,Suriname,N/A
+SE,Sweden,N/A
+CH,Switzerland,N/A
+TW,Taiwan,CBM REQUIRED
+TH,Thailand,CBM REQUIRED
+TT,Trinidad+Tobago,N/A
+TR,Turkey,"CONSIGNEE AND NOTIFY TAX ID
+HS CODE REQUIRED (6 DIGITS)"
+AE,UAE,N/A
+UY,Uruguay,N/A
+US,USA,N/A
+UZ,Uzbekistan,N/A
+VE,Venezuela,TAX ID (CADIVI#)
+VN,Vietnam,"CONSIGNEE TAX ID  
+HS CODE REQUIRED"
+ZM,Zambia,N/A

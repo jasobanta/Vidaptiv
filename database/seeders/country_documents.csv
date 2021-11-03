@@ -1,0 +1,100 @@
+country_id,country_code,country_name,Country BL Requirements
+,AR,Argentina,"CUIT# IN CONSIGNEE/NOTIFY
+NCM# (6 DIGITS)"
+,AW,Aruba,TBD
+,AU,Australia,HS CODE PRESENT
+,AT,Austria,TBD
+,BS,Bahamas,TBD
+,BH,Bahrain,TBD
+,BD,Bangladesh,TBD
+,BB,Barbados,TBD
+,BE,Belgium,TBD
+,BM,Bermuda,TBD
+,BO,Bolivia,TBD
+,BR,Brazil,"CNPJ# IN CONSIGNEE/NOTIFY
+NCM# (4 DIGITS)
+WOOD PALLET STATEMENT
+EXACT WEIGHTS"
+,CL,Chile,TBD
+,CN,China,"SHIPPER EIN# 
+EXACT WEIGHTS
+NUMBER OF PALLETS"
+,CO,Colombia,TBD
+,CR,Costa Rica,TBD
+,CZ,Czech Republic,TBD
+,DK,Denmark,TBD
+,DO,Dominican Rep.,TBD
+,EC,Ecuador,TBD
+,EG,Egypt,TBD
+,SV,El Salvador,TBD
+,EE,Estonia,TBD
+,FI,Finland,TBD
+,FR,France,TBD
+,DE,Germany,TBD
+,GH,Ghana,TBD
+,GB,Great Britain,TBD
+,GR,Greece,TBD
+,GU,Guam,TBD
+,GT,Guatemala,TBD
+,HN,Honduras,TBD
+,HK,Hong Kong,TBD
+,HU,Hungary,TBD
+,IN,India,TBD
+,ID,Indonesia,TBD
+,IE,Ireland,TBD
+,IL,Israel,TBD
+,IT,Italy,TBD
+,JM,Jamaica,TBD
+,JP,Japan,HS CODE PRESENT
+,JO,Jordan,TBD
+,KZ,Kazakhstan,TBD
+,KE,Kenya,TBD
+,KW,Kuwait,TBD
+,LA,Laos,TBD
+,LB,Lebanon,TBD
+,LT,Lithuania,TBD
+,MY,Malaysia,TBD
+,MX,Mexico,TBD
+,MD,Moldova,TBD
+,MA,Morocco,TBD
+,NA,Namibia,TBD
+,NL,Netherlands,TBD
+,NC,New Caledonia,TBD
+,NZ,New Zealand,TBD
+,NI,Nicaragua,TBD
+,NE,Niger,TBD
+,NG,Nigeria,TBD
+,NO,Norway,TBD
+,OM,Oman,TBD
+,PK,Pakistan,TBD
+,PS,Palestinian T. (Israel),TBD
+,PA,Panama,TBD
+,PY,Paraguay,TBD
+,PE,Peru,TBD
+,PH,Philippines,TBD
+,PL,Poland,TBD
+,PT,Portugal,TBD
+,QA,Qatar,TBD
+,RO,Romania,TBD
+,RU,Russian Fed.,TBD
+,AS,Samoa American,TBD
+,SA,Saudi Arabia,TBD
+,SG,Singapore,TBD
+,ZA,South Africa,TBD
+,KR,South Korea,TBD
+,ES,Spain,TBD
+,LK,Sri Lanka,TBD
+,SR,Suriname,TBD
+,SE,Sweden,TBD
+,CH,Switzerland,TBD
+,TW,Taiwan,TBD
+,TH,Thailand,TBD
+,TT,Trinidad+Tobago,TBD
+,TR,Turkey,TBD
+,AE,UAE,TBD
+,UY,Uruguay,TBD
+,US,USA,TBD
+,UZ,Uzbekistan,TBD
+,VE,Venezuela,TBD
+,VN,Vietnam,TBD
+,ZM,Zambia,TBD

@@ -1,0 +1,15 @@
+/vendor
+/.idea
+Homestead.json
+Homestead.yaml
+#composer.lock
+.env
+.env.testing
+/nbproject
+/Documents
+/public/storage
+/values.yaml
+/.ssh
+/node_modules
+composer.phar
+.well-known

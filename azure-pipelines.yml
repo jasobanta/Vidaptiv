@@ -1,0 +1,21 @@
+# Starter pipeline
+# Start with a minimal pipeline that you can customize to build and deploy your code.
+# Add steps that build, run tests, deploy, and more:
+# https://aka.ms/yaml
+
+trigger:
+- main
+steps:
+- task: SSH@0
+  inputs:
+    sshEndpoint: 'ssh to aws'
+    runOptions: 'inline'
+    inline: |
+      #!/bin/sh
+      cd /var/www/html/
+      pwd
+      sudo sh -c 'git pull'
+      sudo sh -c 'composer i'
+      sudo sh -c 'php artisan down'
+      sudo sh -c 'php artisan migrate'
+      sudo sh -c 'php artisan up'
